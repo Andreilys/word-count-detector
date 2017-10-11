@@ -1,6 +1,5 @@
 stops = [
-    'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you',
-    'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his',
+    'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', '\im', 'n\'t', '\'m', '\'d','your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his',
     'himself', 'she', 'her', 'hers', 'herself', 'it', 'its', 'itself',
     'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which',
     'who', 'whom', 'this', 'that', 'these', 'those', 'am', 'is', 'are',
